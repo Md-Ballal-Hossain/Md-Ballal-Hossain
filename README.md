@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/rRGFh4ZH/Github-Banner.png" alt="Banner" width="100%" height="100%" />
+  <img src="https://i.ibb.co.com/bj3qTZKs/Github-Banner1.png" alt="Banner" width="100%" height="100%" />
 </p>
