@@ -25,12 +25,68 @@
   
 </p>
 
-### 📊 GitHub Stats
+## 🧑‍💻 About Me
+I am a passionate Full Stack Web Developer specializing in **JavaScript, React, Node.js, Express.js, Next.js, MongoDB, and Firebase**.  
+I love building **fast, responsive, and scalable web applications** that solve real-world problems.  
+
+- 🔭 I’m currently working on **personal and client projects**
+- 🌱 I’m continuously learning **advanced React, Next.js, and cloud technologies**
+- 💬 Ask me about **JavaScript, React, Node.js, or any web development topic**
+- ⚡ Fun fact: I love **turning complex problems into simple, elegant solutions**
+
+---
+
+## 🛠 Skills & Tech Stack
+
+### **Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 💼 Projects
+| Project | Description | Tech Stack | Live / Repo |
+|---------|-------------|------------|-------------|
+| **Portfolio Website** | Personal portfolio to showcase projects and skills | React, Next.js, Tailwind CSS | [Live](https://YourPortfolio.com/) / [GitHub](https://github.com/YourGitHubUsername/Portfolio) |
+| **E-commerce App** | Online shopping app with cart and payments | React, Node.js, Express.js, MongoDB | [Live](#) / [GitHub](https://github.com/YourGitHubUsername/EcommerceApp) |
+| **Blog Platform** | Full-featured blog platform with authentication | Next.js, Firebase | [Live](#) / [GitHub](https://github.com/YourGitHubUsername/BlogPlatform) |
+
+---
+
+## 📊 GitHub Stats
 
 ![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
 
+---
 
+## 🏆 Achievements & Certifications
+- FreeCodeCamp Responsive Web Design Certificate  
+- HackerRank JavaScript Certificate  
+- Google Firebase Developer
+
+---
+
+## ✉️ Contact
+Feel free to reach out for **collaboration, mentorship, or freelance projects**!  
+📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)  
+🔗 LinkedIn: [YourLinkedInUsername](https://www.linkedin.com/in/YourLinkedInUsername/)
+
+---
+
+> “Let’s build something amazing together! 🚀”
