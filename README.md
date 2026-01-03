@@ -40,7 +40,6 @@ I love building **fast, responsive, and scalable web applications** that solve r
 
 ### **Languages & Frameworks**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -51,41 +50,33 @@ I love building **fast, responsive, and scalable web applications** that solve r
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ---
 
 ## 💼 Projects
 | Project | Description | Tech Stack | Live / Repo |
 |---------|-------------|------------|-------------|
-| **Portfolio Website** | Personal portfolio to showcase projects and skills | React, Next.js, Tailwind CSS | [Live](https://YourPortfolio.com/) / [GitHub](https://github.com/YourGitHubUsername/Portfolio) |
-| **E-commerce App** | Online shopping app with cart and payments | React, Node.js, Express.js, MongoDB | [Live](#) / [GitHub](https://github.com/YourGitHubUsername/EcommerceApp) |
-| **Blog Platform** | Full-featured blog platform with authentication | Next.js, Firebase | [Live](#) / [GitHub](https://github.com/YourGitHubUsername/BlogPlatform) |
+| **Freelance Marketplace** | Personal portfolio to showcase projects and skills | React, Next.js, Tailwind CSS | [Live](https://freelance-work-place.firebaseapp.com/) / [GitHub](https://github.com/Md-Ballal-Hossain/freelance-marketplace-client.git) |
+| **bookshelf Website** | Online shopping app with cart and payments | React, Node.js, Express.js, MongoDB | [Live](https://book-shelpie.firebaseapp.com/) / [GitHub](https://github.com/Md-Ballal-Hossain/Book-Shelpie-Client.git) |
+
 
 ---
 
-## 📊 GitHub Stats
-
-![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
-
----
 
 ## 🏆 Achievements & Certifications
-- FreeCodeCamp Responsive Web Design Certificate  
-- HackerRank JavaScript Certificate  
-- Google Firebase Developer
+- Get Frontend Web Developer Certificate from "Programming Hero"
+
 
 ---
 
 ## ✉️ Contact
 Feel free to reach out for **collaboration, mentorship, or freelance projects**!  
-📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)  
-🔗 LinkedIn: [YourLinkedInUsername](https://www.linkedin.com/in/YourLinkedInUsername/)
+📧 Email: [YourEmail@example.com](mohammad.bhossain@gmail.com)  
+🔗 LinkedIn: [YourLinkedInUsername](https://www.linkedin.com/in/ballal-web-developer/)
 
 ---
 
