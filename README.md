@@ -2,7 +2,7 @@
 
 
 <h1 align="center">“Transforming concepts into high-performance web applications with JS, React, Node, Express & Next.js”</h1>
----
+
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=61576370420247" target="_blank">
@@ -24,7 +24,7 @@
   </a>
   
 </p>
----
+
 ## 🧑‍💻 About Me
 I am a passionate Full Stack Web Developer specializing in **JavaScript, React, Node.js, Express.js, Next.js, MongoDB, and Firebase**.  
 I love building **fast, responsive, and scalable web applications** that solve real-world problems.  
