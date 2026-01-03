@@ -1,7 +1,7 @@
 ![Banner](./Github-Banner1.png)
 
 
-<h1 align="center">“Transforming concepts into high-performance web applications with JS, React, Node, Express & Next.js”</h1>
+<p align="center">“Transforming concepts into high-performance web applications with JS, React, Node, Express & Next.js”</p>
 
 ---
 
@@ -26,6 +26,8 @@
   </a>
   
 </p>
+
+---
 
 ## 🧑‍💻 About Me
 I am a passionate Full Stack Web Developer specializing in **JavaScript, React, Node.js, Express.js, Next.js, MongoDB, and Firebase**.  
