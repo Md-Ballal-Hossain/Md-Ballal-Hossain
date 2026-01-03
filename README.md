@@ -19,7 +19,7 @@
   </a>
 
   <!-- Email -->
-  <a href="mailto:mohammad.bhossain@gmail.com">
+  <a href="https://mail.google.com/">
     <img src="https://i.ibb.co.com/mrnqz4hH/gmail.png" width="130"/>
   </a>
   
