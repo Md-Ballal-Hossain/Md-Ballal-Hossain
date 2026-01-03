@@ -15,7 +15,7 @@
 
   <!-- Google Business Profile -->
   <a href="https://share.google/LnWmjI7muXvnzM9gw" target="_blank">
-    <img src="https://i.ibb.co.com/vvJ7SKFR/Businmess-Profile.png" width="130"/>
+    <img src="https://i.ibb.co.com/Q7Q8hh6z/bp.png" width="130"/>
   </a>
 
   <!-- Email -->
