@@ -79,8 +79,8 @@ I love building **fast, responsive, and scalable web applications** that solve r
 
 ## ✉️ Contact
 Feel free to reach out for **collaboration, mentorship, or freelance projects**!  
-📧 Email: [YourEmail@example.com](mohammad.bhossain@gmail.com)  
-🔗 LinkedIn: [YourLinkedInUsername](https://www.linkedin.com/in/ballal-web-developer/)
+📧 Email: [mohammad.bhossain@gmail.com](mohammad.bhossain@gmail.com)  
+🔗 LinkedIn: [Mohammad Ballal Hossain](https://www.linkedin.com/in/ballal-web-developer/)
 
 ---
 
