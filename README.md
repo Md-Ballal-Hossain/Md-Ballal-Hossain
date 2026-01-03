@@ -64,8 +64,8 @@ I love building **fast, responsive, and scalable web applications** that solve r
 ## 💼 Projects
 | Project | Description | Tech Stack | Live / Repo |
 |---------|-------------|------------|-------------|
-| **Freelance Marketplace** | Personal portfolio to showcase projects and skills | React, Next.js, Tailwind CSS | [Live](https://freelance-work-place.firebaseapp.com/) / [GitHub](https://github.com/Md-Ballal-Hossain/freelance-marketplace-client.git) |
-| **bookshelf Website** | Online shopping app with cart and payments | React, Node.js, Express.js, MongoDB | [Live](https://book-shelpie.firebaseapp.com/) / [GitHub](https://github.com/Md-Ballal-Hossain/Book-Shelpie-Client.git) |
+| **Freelance Marketplace** | Personal portfolio to showcase projects and skills | React, Node.js, Express.js, Tailwind CSS, MongoDB, Firebase | [Live](https://freelance-work-place.firebaseapp.com/) / [GitHub](https://github.com/Md-Ballal-Hossain/freelance-marketplace-client.git) |
+| **bookshelf Website** | Online rent book app with cart and payments |  React, Node.js, Express.js, Tailwind CSS, MongoDB, Firebase  | [Live](https://book-shelpie.firebaseapp.com/) / [GitHub](https://github.com/Md-Ballal-Hossain/Book-Shelpie-Client.git) |
 
 
 ---
