@@ -1,7 +1,7 @@
 ![Banner](./Github-Banner1.png)
 
 
-<h1 align="center">Mohammad Ballal Hossain</h1>
+<h1 align="center">“Transforming concepts into high-performance web applications with JS, React, Node, Express & Next.js”</h1>
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -24,18 +24,5 @@
   </a>
   
 </p>
-
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
 
 
