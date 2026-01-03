@@ -6,7 +6,7 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=61576370420247" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://i.ibb.co.com/Gv3BDN8S/facebook.png"/>
   </a>
 
  
