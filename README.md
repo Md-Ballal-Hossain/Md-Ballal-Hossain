@@ -3,6 +3,8 @@
 
 <h1 align="center">“Transforming concepts into high-performance web applications with JS, React, Node, Express & Next.js”</h1>
 
+---
+
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=61576370420247" target="_blank">
