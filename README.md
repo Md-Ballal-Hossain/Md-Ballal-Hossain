@@ -13,17 +13,17 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="www.linkedin.com/in/ballal-web-developer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <!-- Google Business Profile -->
-  <a href="https://g.page/YOUR_BUSINESS_ID" target="_blank">
+  <a href="https://share.google/LnWmjI7muXvnzM9gw" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Business-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
 
   <!-- Email -->
-  <a href="mailto:your@email.com">
+  <a href="mailto:mohammad.bhossain@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
